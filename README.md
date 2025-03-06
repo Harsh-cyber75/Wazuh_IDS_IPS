@@ -2,7 +2,7 @@
 # Wazuh as an Intrusion Detection and Prevention System (IDS/IPS)
 
 # 1. Project Overview
-This project focuses on implementing Wazuh as an Intrusion Detection System (IDS) and Intrusion Prevention System (IPS) without using Zeek. Instead, we will integrate Suricata as the primary Network-based IDS (NIDS) to analyze network traffic and detect threats.
+This project focuses on implementing Wazuh as an Intrusion Detection System (IDS) and Intrusion Prevention System (IPS). we will integrate Suricata as the primary Network-based IDS (NIDS) to analyze network traffic and detect threats.
 
 # Why Wazuh for IDS/IPS? 
 
